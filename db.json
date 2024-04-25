@@ -1,27 +1,27 @@
 {
-    across: {
-        5: {clue:"Set in the Kerala, debut novel by _________ Roy won a Man Booker Prize in 1997", answer: "Arundhati".toUpperCase(), row: 2, col: 8},
-        8: {clue:"You would find the Wizard of Oz in the ______ city", answer:'Emerald'.toUpperCase(),row:4,col:0},
-        9: {clue:"Last name of Cat’s Cradle author", answer:"Vonnegut".toUpperCase(), row:5, col:10},
-        11: {clue:"Dancing clown in Stephen King's famed horror novel 'It?'", answer:"Pennywise".toUpperCase(), row:7, col:3},
-        12: {clue:"Jyotiba Phule wrote 'Gulamgiri' in _______language.", answer:'Marathi'.toUpperCase(), row:7, col:13},
-        13: {clue:"Thus Spoke Zarathustra was written by Friedrich _______", answer:'Nietzsche'.toUpperCase(), row:9,col:14},
-        14: {clue:"The Grapes of Wrath was written by?", answer:"Steinbeck".toUpperCase(), row:10, col:3},
-        17: {clue:"Dmitri, Ivan, and Alexei are the three brothers in 1879 Russian novel 'The Brothers ____________'", answer:"Karamazov".toUpperCase(), row: 12, col:11},
-        19: {clue: "Last name shared by Victorian writers and sisters Charlotte, Emily, and Anne", answer:"Bronte".toUpperCase(),row:13,col:4},
-        20: {clue:" R.K. Narayanan's famous book '_________ days", answer:"Malgudi".toUpperCase(),row:15, col:6}
+    "across": {
+        "5": {"clue":"Set in the Kerala, debut novel by _________ Roy won a Man Booker Prize in 1997", "answer": "ARUNDHATI", "row": 2, "col": 8},
+        "8": {"clue":"You would find the Wizard of Oz in the ______ city", "answer":"EMERALD","row":4,"col":0},
+        "9": {"clue":"Last name of Cat’s Cradle author", "answer":"VONNEGUT", "row":5, "col":10},
+        "11": {"clue":"Dancing clown in Stephen King's famed horror novel 'It?'", "answer":"PENNYWISE", "row":7, "col":3},
+        "12": {"clue":"Jyotiba Phule wrote 'Gulamgiri' in _______language.", "answer":"MARATHI", "row":7, "col":13},
+        "13": {"clue":"Thus Spoke Zarathustra was written by Friedrich _______", "answer":"NIETZSCHE", "row":9,"col":14},
+        "14": {"clue":"The Grapes of Wrath was written by?", "answer":"STEINBECK", "row":10, "col":3},
+        "17": {"clue":"Dmitri, Ivan, and Alexei are the three brothers in 1879 Russian novel The Brothers ____________'", "answer":"KARAMAZOV", "row": 12, "col":11},
+        "19": {"clue": "Last name shared by Victorian writers and sisters Charlotte, Emily, and Anne", "answer":"BRONTE","row":13,"col":4},
+        "20": {"clue":" R.K. Narayanan's famous book '_________ days", "answer":"MALGUDI","row":15, "col":6}
 
     },
-    down: {
-      1: {clue:"_____ Dahl wrote 'Charlie and the Chocolate Factory'", answer:"Roald".toUpperCase(), row:0, col:8},
-      2: {clue:"What type of animal is Rikki-Tikki-Tavi in 'The Jungle Book.'", answer:'Mongoose'.toUpperCase(),row:0,col:11},
-      3: {clue: "Whose autobiography is 'Long Walk to Freedom'?(last name)", answer:'Mandela'.toUpperCase(),row:1,col:14},
-      4: {clue:"'J'in J. K. Rowling", answer:"Joanne".toUpperCase(), row:2, col:4},
-      6: {clue:'Marcus ________ was Roman emperor from 161 to 180. He was also a Stoic philosopher and wrote the book “Meditations”', answer:'Aurelius'.toUpperCase(), row:2, col:19},
-      7: {clue:"In the Harry Potter series, what is the name of Harry’s pet owl?",answer:"Hedwig".toUpperCase(), row:3,col:0},
-      10: {clue:"Since 2011, author George R.R. Martin has been working on the sixth instalment of his A Song of Ice and Fire series, a novel alliteratively titled The Winds of ______.", answer:"Winter".toUpperCase(),row:6,col:9},
-      15: {clue:'In "The Lion, the Witch, and the Wardrobe"what magical country does the White Witch put a spell on so that it is always winter but never Christmas?',answer:"Narnia".toUpperCase(),row:10,col:7},
-      16: {clue:"Stephen King’s first published novel?", answer:"Carrie".toUpperCase(), row:11, col:12},
-      18: {clue:"What musical instrument did Sherlock Holmes play?", answer:"Violin".toUpperCase(),row:12,col:19}
-    },
+    "down": {
+      "1": {"clue":"_____ Dahl wrote 'Charlie and the Chocolate Factory'", "answer":"ROALD", "row":0, "col":8},
+      "2": {"clue":"What type of animal is Rikki-Tikki-Tavi in 'The Jungle Book.'", "answer":"MONGOOSE","row":0,"col":11},
+      "3": {"clue": "Whose autobiography is 'Long Walk to Freedom'?(last name)", "answer":"MANDELA","row":1,"col":14},
+      "4": {"clue":"'J'in J. K. rowling", "answer":"JOANNE", "row":2, "col":4},
+      "6": {"clue":"Marcus ________ was Roman emperor from 161 to 180. He was also a Stoic philosopher and wrote the book 'Meditations'", "answer":"AURELIUS", "row":2, "col":19},
+      "7": {"clue":"In the Harry Potter series, what is the name of Harry’s pet owl?","answer":"HEDWIG", "row":3,"col":0},
+      "10": {"clue":"Since 2011, author George R.R. Martin has been working on the sixth instalment of his A Song of Ice and Fire series, a novel alliteratively titled The Winds of ______.", "answer":"WINTER","row":6,"col":9},
+      "15": {"clue":"In 'The Lion, the Witch, and the Wardrobe' what magical country does the White Witch put a spell on so that it is always winter but never Christmas?","answer":"NARNIA","row":10,"col":7},
+      "16": {"clue":"Stephen King’s first published novel?", "answer":"CARRIE", "row":11, "col":12},
+      "18": {"clue":"What musical instrument did Sherlock Holmes play?", "answer":"VIOLIN","row":12,"col":19}
+    }
   }
